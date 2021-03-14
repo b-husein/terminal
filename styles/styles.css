@@ -1,0 +1,42 @@
+body {
+	background-color: #000;
+}
+
+#terminalOutput {
+	font-family: 'Maven Pro', sans-serif;
+	color: #fff;
+	width: 90%;
+	margin: 15px;
+	font-size: 16px;
+}
+
+.titles {
+	color: #ff05ea;
+}
+
+a {
+	color: #0bc;
+	text-decoration: none;
+}
+
+.green {
+	color: #0f0;
+}
+
+.terminalString {
+	color: #0bc;
+}
+
+.terminalSymbols {
+	color: #ff0096;
+}
+
+.main-title {
+	margin-bottom: 3px;
+}
+
+@keyframes change {
+    	0%  { color:  #0f0; }
+    	50% { color:  #0f0; }
+    	99% { color: black; }
+}

@@ -1,0 +1,36 @@
+<span class="green">husein@virtual-machine</span>:<span class="terminalSymbols">~</span><span class="terminalString">$</span> cd welcome00/
+<span class="green">husein@virtual-machine</span>:<span class="terminalSymbols">~</span><span class="terminalString">$</span> cat readMe.txt
+
+WELCOME to my terminal portfolio.
+
+<span class="green">husein@virtual-machine</span>:<span class="terminalSymbols">~</span><span class="terminalString">$</span> cd ../
+<span class="green">husein@virtual-machine</span>:<span class="terminalSymbols">~</span><span class="terminalString">$</span> cd docs/about01
+<span class="green">husein@virtual-machine</span>:<span class="terminalSymbols">~</span><span class="terminalString">$</span> cat husein.txt<br/>
+
+<h4 class="main-title">BASIC INFORMATION</h4>
+
+<span class="titles">Name:</span>       HUSEIN;
+<span class="titles">Titles:</span>     Full Stack Engineer
+<span class="titles">Contact Me:</span> <a href="mailto:husein.bajrektarevic@gmail.com">Email</a>
+
+<h4 class="main-title">WORKING WITH</h4>
+
+<span class="titles">Frontend:</span> HTML5, CSS3, JavaScript, ReactJS & Bootstrap
+<span class="titles">Backend:</span> Python, JavaScript, PHP
+<span class="titles">System:</span> Bash & Python
+<span class="titles">Databases:</span> MySQL & MongoDB
+<span class="titles">Operating Systems:</span> Microsoft Windows & Linux [Debian]
+<span class="titles">Server Environments:</span> NodeJS & LAMP
+<span class="titles">VCS Systems:</span> Git 
+
+<h4 class="main-title">PORTFOLIO AND PROJECTS</h4>
+
+<span class="titles">[Website - Portfolio]</span> ⟿ <a href="#" target="_blank">Link</a>
+
+<span class="titles">See more on Github</span> ⟿ <a href="#" target="_blank">Link</a>
+
+<h4 class="main-title">BLOG AND CHANNEL</h4>
+
+<span class="titles">Moment - Blog [Website]</span> ⟿ <a href="#" target="_blank">Link</a>
+<span class="titles">HB - Videos [Youtube]</span> ⟿ <a href="#" target="_blank">Link</a>
+
