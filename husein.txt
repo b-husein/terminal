@@ -1,23 +1,22 @@
 <span class="green">husein@virtual-machine</span>:<span class="terminalSymbols">~</span><span class="terminalString">$</span> cd welcome00/
 <span class="green">husein@virtual-machine</span>:<span class="terminalSymbols">~</span><span class="terminalString">$</span> cat husein.txt<br/>
 
-<h4 class="main-title">BASIC INFORMATION</h4>
+<h4 class="main-title">ABOUT</h4>
 
 <span class="titles">Name:</span>       Husein Bajrektarević;
-<span class="titles">Titles:</span>     QA Engineer
-<span class="titles">Contact Me:</span> bajrektarevic.husein@gmail.com
+<span class="titles">Title:</span>     QA Engineer
+<span class="titles">e-mail:</span> bajrektarevic.husein@gmail.com
 
 <h4 class="main-title">WORKING WITH</h4>
 
-<span class="titles">Agile Project Management:</span> Jira;
-<span class="titles">Tools:</span> Bugzilla;
-<span class="titles">System:</span> Bash & Python;
+<span class="titles">Tools:</span> Jira & Bugzilla;
+<span class="titles">Front-End:</span> HTML5, CSS3, JS;
 <span class="titles">Databases:</span> MySQL;
-<span class="titles">Operating Systems:</span> Microsoft Windows & Linux [Debian]
+<span class="titles">OS:</span> Windows, Linux & MacOS;
 <span class="titles">MS Office:</span> Word, Excel, PowerPoint & Visio;
-<span class="titles">VCS Systems:</span> Git; 
+<span class="titles">VCS:</span> Git; 
 
-<h4 class="main-title">PORTFOLIO AND PROJECTS</h4>
+<h4 class="main-title">RESUME & GITHUB</h4>
 
 <span class="titles">[Website] - Portfolio</span> ⟿ <a href="#" target="_blank">Link</a>
 
