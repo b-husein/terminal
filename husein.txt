@@ -6,6 +6,8 @@
 <span class="titles">Name:</span>       Husein Bajrektarević;
 <span class="titles">Title:</span>     QA Engineer
 <span class="titles">e-mail:</span> bajrektarevic.husein@gmail.com
+<span class="titles">Resume:</span> ⟿ <a href="#" target="_blank">Link</a>
+<span class="titles">Github</span> ⟿ <a href="#" target="_blank">Link</a>
 
 <h4 class="main-title">WORKING WITH</h4>
 
@@ -16,14 +18,13 @@
 <span class="titles">MS Office:</span> Word, Excel, PowerPoint & Visio;
 <span class="titles">VCS:</span> Git; 
 
-<h4 class="main-title">RESUME & GITHUB</h4>
+<h4 class="main-title">DEMO BOOKSTORE APP TEST CASES</h4>
 
-<span class="titles">[Website] - Portfolio</span> ⟿ <a href="#" target="_blank">Link</a>
+<span class="titles">1. Register form test;</span> ⟿ <a href="#" target="_blank">Link</a>
+<span class="titles">2. Login functionality test; </span> ⟿ <a href="#" target="_blank">Link</a>
+<span class="titles">3. Filter functionality test; </span> ⟿ <a href="#" target="_blank">Link</a>
+<span class="titles">4. Upload and Download functionality test; </span> ⟿ <a href="#" target="_blank">Link</a>
 
-<span class="titles">See more on Github</span> ⟿ <a href="#" target="_blank">Link</a>
+<span class="titles">Read more on my blog;</span> ⟿ <a href="#" target="_blank">Link</a>
 
-<h4 class="main-title">BLOG AND CHANNEL</h4>
-
-<span class="titles">Moment - Blog [Website]</span> ⟿ <a href="#" target="_blank">Link</a>
-<span class="titles">HB - Videos [Youtube]</span> ⟿ <a href="#" target="_blank">Link</a>
 
