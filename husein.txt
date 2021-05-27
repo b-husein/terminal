@@ -9,13 +9,13 @@
 
 <h4 class="main-title">WORKING WITH</h4>
 
-<span class="titles">Frontend:</span> HTML5, CSS3, JavaScript;
-<span class="titles">Backend:</span> Python, JavaScript, PHP
-<span class="titles">System:</span> Bash & Python
-<span class="titles">Databases:</span> MySQL & MongoDB
+<span class="titles">Agile Project Management:</span> Jira;
+<span class="titles">Tools:</span> Bugzilla;
+<span class="titles">System:</span> Bash & Python;
+<span class="titles">Databases:</span> MySQL;
 <span class="titles">Operating Systems:</span> Microsoft Windows & Linux [Debian]
-<span class="titles">Server Environments:</span> NodeJS & LAMP
-<span class="titles">VCS Systems:</span> Git 
+<span class="titles">MS Office:</span> Word, Excel, PowerPoint & Visio;
+<span class="titles">VCS Systems:</span> Git; 
 
 <h4 class="main-title">PORTFOLIO AND PROJECTS</h4>
 
