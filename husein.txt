@@ -17,6 +17,7 @@
 <span class="titles">OS:</span> Windows, Linux & MacOS;
 <span class="titles">MS Office:</span> Word, Excel, PowerPoint & Visio;
 <span class="titles">VCS:</span> Git; 
+<span class="titles">Virtualized testing environment:</span> Virtualbox;
 
 <h4 class="main-title">DEMO BOOKSTORE APP TEST CASES</h4>
 
