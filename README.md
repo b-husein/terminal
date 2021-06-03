@@ -1,3 +1,4 @@
-# work in progress
+
+## terminal style personal website;
 
 
