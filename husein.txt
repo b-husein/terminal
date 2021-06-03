@@ -4,27 +4,20 @@
 <h4 class="main-title">ABOUT</h4>
 
 <span class="titles">Name:</span>       Husein Bajrektarević;
-<span class="titles">Title:</span>     QA Engineer
-<span class="titles">e-mail:</span> bajrektarevic.husein@gmail.com
+<span class="titles">Title:</span>      Deployment and Training Engineer;
+
+<span class="titles">e-mail:</span>     bajrektarevic.husein@gmail.com
 <span class="titles">Resume:</span> ⟿ <a href="#" target="_blank">Link</a>
 <span class="titles">Github</span> ⟿ <a href="#" target="_blank">Link</a>
 
 <h4 class="main-title">WORKING WITH</h4>
 
-<span class="titles">Tools:</span> Jira & Bugzilla;
-<span class="titles">Front-End:</span> HTML5, CSS3, JavaScript;
-<span class="titles">Databases:</span> MySQL;
 <span class="titles">OS:</span> Windows, Linux & MacOS;
-<span class="titles">MS Office:</span> Word, Excel, PowerPoint & Visio;
 <span class="titles">VCS:</span> Git; 
-<span class="titles">Virtualized testing environment:</span> Virtualbox;
 
-<h4 class="main-title">DEMO BOOKSTORE APP TEST CASES</h4>
-
-<span class="titles">1. Register form test (demoqa.com);</span> ⟿ <a href="#" target="_blank">Link</a>
-<span class="titles">2. Login functionality test (demoqa.com); </span> ⟿ <a href="#" target="_blank">Link</a>
-<span class="titles">3. Filter functionality test (demoqa.com); </span> ⟿ <a href="#" target="_blank">Link</a>
-<span class="titles">4. Upload and Download functionality test (demoqa.com); </span> ⟿ <a href="#" target="_blank">Link</a>
+<span class="titles">Server:</span> Architecture; Administration; Maintenance; Security; Disaster Recovery;
+<span class="titles">Network:</span> IP Addressing; OSI Model; Infrastructure; Operations and Security;
+<span class="titles">Virtualization:</span> Virtualbox & VMware;
 
 <span class="titles">Read more on my blog;</span> ⟿ <a href="#" target="_blank">Link</a>
 
