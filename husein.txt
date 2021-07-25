@@ -7,7 +7,7 @@
 <span class="titles">Title:</span>      Deployment and Training Engineer;
 
 <span class="titles">e-mail:</span>     bajrektarevic.husein@gmail.com
-<span class="titles">Resume:</span> ⟿ <a href="https://drive.google.com/file/d/1EUfIhaGwy_mWD-ZpZy0CdnsNKEr4BVQz/view?usp=sharing" target="_blank">Link</a>
+<span class="titles">Resume:</span> ⟿ <a href="#" target="_blank">Link</a>
 <span class="titles">Github:</span> ⟿ <a href="https://github.com/b-husein" target="_blank">Link</a>
 
 <h4 class="main-title">WORKING WITH</h4>
@@ -19,6 +19,6 @@
 <span class="titles">Network:</span> IP Addressing; OSI Model; Infrastructure; Operations and Security;
 <span class="titles">Virtualization:</span> Virtualbox & VMware;
 
-<span class="titles">Read more on my blog;</span> ⟿ <a href="https://b-husein.github.io/moment/index.html" target="_blank">Link</a>
+<span class="titles">Read more on my blog;</span> ⟿ <a href="#" target="_blank">Link</a>
 
 
